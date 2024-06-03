@@ -1,4 +1,4 @@
-// <!-- ========== Start Section ========== -->
-
-// <!-- ========== End Section ========== -->
-// agdfdshfsakdjfhshfjasa
+chrome.runtime.onInstalled.addListener(() => {
+    console.log('Extension installed Enjoy!!!');
+  });
+  
